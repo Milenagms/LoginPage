@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
     <h1> LoginPage</h2>
     <h2> Página de login responsiva </h2>
@@ -14,3 +15,6 @@
 <blockquote>
     Feito por Milena Ferreira Gomes.
 </blockquote>
+=======
+
+>>>>>>> 2f73c2eaab408312ad918c66b7bc04179c02c25c
